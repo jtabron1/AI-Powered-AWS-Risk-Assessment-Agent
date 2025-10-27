@@ -29,6 +29,9 @@ The AWS Security Risk Assessment Agent automatically analyzes your AWS Security 
 ![Risk Assessment Report](./screenshots/risk-report-email.png)
 *Executive summary with prioritized actions delivered via email*
 
+### Scheduled Execution
+![Workflow Schedule](./screenshots/workflow-schedule1.png)
+*Configure daily, weekly, or monthly automated reports*
 
 ## 💡 The Problem
 
