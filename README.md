@@ -387,4 +387,4 @@ James Tabron | [LinkedIn](https://linkedin.com/in/jamestabron)
 
 Former Director of Engineering at Twilio | SOC 2 Expert | Building AI agents for GRC automation  
 📧 jamestabron@gmail.com
-```
+
