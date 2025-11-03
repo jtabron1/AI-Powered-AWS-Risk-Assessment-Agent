@@ -371,7 +371,23 @@ A: Both. Startups benefit from automated reporting without hiring a full securit
 </div>
 
 ---
+## 🎯 Why I Built This
 
+As a security compliance professional, I've spent hundreds of hours manually translating AWS Security Hub findings into executive reports. I built this agent to:
+
+1. **Solve My Own Pain**: Free security teams from repetitive report writing
+2. **Prove a Concept**: Show that GRC processes can be intelligently automated
+3. **Learn by Building**: Understand how to codify expert judgment into AI workflows
+
+This is part of a broader project to automate SOC 2 control testing using AI agents.
+
+**About the Author**
+
+James Tabron | [LinkedIn](https://linkedin.com/in/jamestabron) 
+
+Former Director of Engineering at Twilio | SOC 2 Expert | Building AI agents for GRC automation  
+📧 jamestabron@gmail.com
+```
 ## 📸 Screenshots
 
 ### AWS Security Hub Integration
