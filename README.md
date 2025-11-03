@@ -388,20 +388,3 @@ James Tabron | [LinkedIn](https://linkedin.com/in/jamestabron)
 Former Director of Engineering at Twilio | SOC 2 Expert | Building AI agents for GRC automation  
 📧 jamestabron@gmail.com
 ```
-## 📸 Screenshots
-
-### AWS Security Hub Integration
-![Security Hub Findings Export](./screenshots/security-hub-findings.png)
-*Automated retrieval of Security Hub findings from S3*
-
-### AI-Generated Executive Report
-![Risk Assessment Email](./screenshots/risk-report-email.png)
-*Business-focused risk analysis delivered via email*
-
-### n8n Workflow Canvas
-![Workflow Configuration](./screenshots/workflow-schedule.png)
-*Visual workflow showing automated analysis pipeline*
-
----
-
-*Transform raw security data into actionable executive insights—automatically.*
